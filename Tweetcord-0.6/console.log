@@ -1,0 +1,12 @@
+2026-02-22 22:56:32 INFO     src.checker -> environment variables check passed
+2026-02-22 22:56:32 INFO     src.checker -> configs.yml not found. Using default values for all settings.
+2026-02-22 22:56:32 INFO     src.checker -> successfully generated 'configs/configs.generated.yml'
+2026-02-22 22:56:42 INFO     src.db_function.init_db -> database file not found, a blank database file has been created
+2026-02-22 22:56:42 INFO     __main__ -> database check passed
+2026-02-22 22:56:44 INFO     __main__ -> Gebura#8167 is online
+2026-02-22 22:56:44 INFO     src.notification.account_tracker -> initial tweet timestamps loaded
+2026-02-22 22:56:45 INFO     __main__ -> synced 5 slash commands
+2026-02-22 22:57:55 INFO     src.notification.account_tracker -> alive tasks : []
+2026-02-22 22:57:55 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-22 22:58:54 INFO     cogs.notification -> successfully turned on notification for limbuscompany_b
+2026-02-22 22:58:54 INFO     src.notification.account_tracker -> new task LimbusCompany_B added successfully using Account1

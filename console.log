@@ -1,0 +1,77 @@
+2026-02-21 09:52:00 INFO     src.checker -> environment variables check passed
+2026-02-21 09:52:00 INFO     src.checker -> successfully generated 'configs/configs.generated.yml'
+2026-02-21 09:53:08 INFO     src.checker -> environment variables check passed
+2026-02-21 09:53:08 INFO     src.checker -> successfully generated 'configs/configs.generated.yml'
+2026-02-21 09:53:13 INFO     src.db_function.init_db -> database file not found, a blank database file has been created
+2026-02-21 09:53:13 INFO     __main__ -> database check passed
+2026-02-21 09:53:14 INFO     __main__ -> Lcb-News#8167 is online
+2026-02-21 09:53:14 INFO     src.notification.account_tracker -> initial tweet timestamps loaded
+2026-02-21 09:53:14 INFO     __main__ -> synced 5 slash commands
+2026-02-21 09:54:15 INFO     src.notification.account_tracker -> alive tasks : []
+2026-02-21 09:54:15 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-21 10:01:09 INFO     cogs.notification -> successfully turned on notification for LimbusCompany_B
+2026-02-21 10:01:09 INFO     src.notification.account_tracker -> new task LimbusCompany_B added successfully using Account1
+2026-02-21 11:32:51 ERROR    src.notification.account_tracker -> [Errno 11001] getaddrinfo failed (task : tweets updater Account1)
+2026-02-21 11:32:51 ERROR    src.notification.account_tracker -> an unexpected error occurred, try again in 5 minutes
+2026-02-21 13:54:17 INFO     src.notification.account_tracker -> alive tasks : ['LimbusCompany_B']
+2026-02-21 13:54:17 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-21 17:54:19 INFO     src.notification.account_tracker -> alive tasks : ['LimbusCompany_B']
+2026-02-21 17:54:20 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-21 21:54:21 INFO     src.notification.account_tracker -> alive tasks : ['LimbusCompany_B']
+2026-02-21 21:54:22 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-22 01:54:24 INFO     src.notification.account_tracker -> alive tasks : ['LimbusCompany_B']
+2026-02-22 01:54:24 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-22 05:54:26 INFO     src.notification.account_tracker -> alive tasks : ['LimbusCompany_B']
+2026-02-22 05:54:26 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-22 09:54:28 INFO     src.notification.account_tracker -> alive tasks : ['LimbusCompany_B']
+2026-02-22 09:54:28 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-22 13:54:30 INFO     src.notification.account_tracker -> alive tasks : ['LimbusCompany_B']
+2026-02-22 13:54:30 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-22 17:54:32 INFO     src.notification.account_tracker -> alive tasks : ['LimbusCompany_B']
+2026-02-22 17:54:32 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-22 21:00:02 INFO     src.notification.account_tracker -> find a new tweet from LimbusCompany_B
+2026-02-22 21:54:34 INFO     src.notification.account_tracker -> alive tasks : ['LimbusCompany_B']
+2026-02-22 21:54:34 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-23 16:48:41 INFO     src.checker -> environment variables check passed
+2026-02-23 16:48:41 INFO     src.checker -> successfully generated 'configs/configs.generated.yml'
+2026-02-23 16:48:44 INFO     __main__ -> database check passed
+2026-02-23 16:48:46 INFO     __main__ -> Gebura#8167 is online
+2026-02-23 16:48:46 INFO     src.notification.account_tracker -> initial tweet timestamps loaded
+2026-02-23 16:48:47 INFO     __main__ -> synced 5 slash commands
+2026-02-23 16:49:14 INFO     src.checker -> environment variables check passed
+2026-02-23 16:49:14 INFO     src.checker -> successfully generated 'configs/configs.generated.yml'
+2026-02-23 16:49:17 INFO     __main__ -> database check passed
+2026-02-23 16:49:18 INFO     __main__ -> Gebura#8167 is online
+2026-02-23 16:49:18 INFO     src.notification.account_tracker -> initial tweet timestamps loaded
+2026-02-23 16:49:19 INFO     __main__ -> synced 5 slash commands
+2026-02-23 21:37:38 INFO     src.checker -> environment variables check passed
+2026-02-23 21:37:38 INFO     src.checker -> successfully generated 'configs/configs.generated.yml'
+2026-02-23 21:37:41 INFO     __main__ -> database check passed
+2026-02-23 21:37:43 INFO     __main__ -> Gebura#8167 is online
+2026-02-23 21:37:43 INFO     src.notification.account_tracker -> initial tweet timestamps loaded
+2026-02-23 21:37:44 INFO     __main__ -> synced 5 slash commands
+2026-02-23 21:38:04 INFO     src.notification.account_tracker -> find a new tweet from LimbusCompany_B
+2026-02-23 21:38:04 INFO     src.notification.account_tracker -> find a new tweet from LimbusCompany_B
+2026-02-23 21:38:05 INFO     src.notification.account_tracker -> find a new tweet from LimbusCompany_B
+2026-02-23 21:38:46 INFO     src.notification.account_tracker -> alive tasks : ['LimbusCompany_B']
+2026-02-23 21:38:46 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-24 01:38:50 INFO     src.notification.account_tracker -> alive tasks : ['LimbusCompany_B']
+2026-02-24 01:38:51 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-24 02:00:09 INFO     src.notification.account_tracker -> find a new tweet from LimbusCompany_B
+2026-02-24 02:10:22 INFO     src.notification.account_tracker -> find a new tweet from LimbusCompany_B
+2026-02-24 02:20:16 INFO     src.notification.account_tracker -> find a new tweet from LimbusCompany_B
+2026-02-24 05:38:53 INFO     src.notification.account_tracker -> alive tasks : ['LimbusCompany_B']
+2026-02-24 05:38:53 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-24 07:02:16 INFO     src.sync_db.sync_db -> synchronization with database completed
+2026-02-24 07:03:44 INFO     src.notification.account_tracker -> task LimbusCompany_B has been cancelled
+2026-02-24 07:03:46 INFO     cogs.notification -> successfully unfollowed LimbusCompany_B
+2026-02-24 07:04:25 INFO     cogs.notification -> successfully turned on notification for LimbusCompany_B
+2026-02-24 07:04:25 INFO     src.notification.account_tracker -> new task LimbusCompany_B added successfully using Account1
+2026-02-24 09:38:54 INFO     src.notification.account_tracker -> alive tasks : ['LimbusCompany_B']
+2026-02-24 09:38:54 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-24 13:38:56 INFO     src.notification.account_tracker -> alive tasks : ['LimbusCompany_B']
+2026-02-24 13:38:56 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-24 17:38:58 INFO     src.notification.account_tracker -> alive tasks : ['LimbusCompany_B']
+2026-02-24 17:38:58 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
+2026-02-24 21:39:01 INFO     src.notification.account_tracker -> alive tasks : ['LimbusCompany_B']
+2026-02-24 21:39:01 INFO     src.notification.account_tracker -> tweets updater Account1 : alive
